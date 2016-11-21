@@ -11,4 +11,4 @@ du développement, de la production, de l'installation et de l'entretien des
 produits de la société.
 
   Le manuel est divisé en dix sections qui correspondent aux sections du système
-de gestion de la qualité tel que décrit dans de l'ISO 9001:2015.
+de gestion de la qualité tel que décrit dans le standard de l'ISO 9001:2015.
