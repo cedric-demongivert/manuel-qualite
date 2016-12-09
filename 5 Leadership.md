@@ -20,6 +20,7 @@ Le leadership de tous les échelons de l'entreprise joue un rôle actif dans la 
 
 - Promouvoir l'amélioration de l'efficacité du manuel qualité
 
+
 ## 5.2. Politique
 
    La direction veille à ce que le présent manuel de qualité soit communiqué à
@@ -42,6 +43,7 @@ s'efforcer d'aller au-devant de ses attentes.
   Les risques sont évalués continuellement, avant et pendant la gestion d'une
 opportunité, ainsi que pendant la réalisation répondant à cette même
 opportunité.
+
 
 ## 5.3. Rôles, responsabilités et autorités au sein de l’organisme
 
