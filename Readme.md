@@ -2,19 +2,11 @@
 
 ## Sommaire
 
-REVOIR :
-1.
-3.
-5.
-
-COMPLETER :
-4. <-- Alexandre
-
 ECRIRE :
 6.1 <-- Cédric
 
 REFLECHIR :
-6.2 <--
+6.2 <-- 
 6.3 <--
 
 10 <-- Sophie
@@ -30,7 +22,7 @@ OK :
 
 Pas OK :
 6.
-8.
+8. <-- Nicolas (j'y réfléchis)
 9.
 10.
 Annexes.
