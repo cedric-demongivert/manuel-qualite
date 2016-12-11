@@ -14,16 +14,18 @@ REFLECHIR :
 OK :
 1.
 2.
-3.
 4.
 5.
+6.1
+6.3
 7.
+8.
+9.
 
 Pas OK :
-6.
+3. Définition de termes POA/Templates/Central d'appels/Ticket
+6.2 -> Changer le terme "commité" ...
 8. <-- Nicolas (j'y réfléchis)
-9.
-10.
 Annexes.
 
 ## Pourquoi pas de manuel qualité en informatique ?
