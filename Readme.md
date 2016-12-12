@@ -1,15 +1,9 @@
 # Manuel qualité
 
+# Arrêtez avec vos fautes ... orthographe, syntaxe, conjugaison, sens, ... 
+
+
 ## Sommaire
-
-ECRIRE :
-6.1 <-- Cédric
-
-REFLECHIR :
-6.2 <--
-6.3 <--
-
-10 <-- Sophie
 
 OK :
 1.
