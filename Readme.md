@@ -18,12 +18,14 @@ OK :
 5.
 6
 7.
-8.
+8.3 normalement ok
 9.
 
 Pas OK :
 3. Définition de termes POA/Templates/Central d'appels/Ticket
 8. <-- Nicolas (j'y réfléchis)
+8.2.3 : Partie "Création", vérifier quoi ????
+8.2.3 : Partie "Production", scalable ici = ? évolutif, adaptable, évolutif ??? Terme à préciser
 Annexes et Templates
 
 ## Pourquoi pas de manuel qualité en informatique ?
