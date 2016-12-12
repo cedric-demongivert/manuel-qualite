@@ -12,8 +12,13 @@ OK :
 5.
 6
 7.
+
 8.1 un peu bullshitée mais je vois pas mieux
+
 8.3 normalement ok
+
+8.4 c'est fait, j'ai juste viré la partie 8.4.2 puisque ça parle des services des prestataires
+
 9.
 
 Pas OK :
