@@ -23,8 +23,14 @@ OK :
 
 Pas OK :
 3. Définition de termes POA/Templates/Central d'appels/Ticket
-8. <-- Nicolas (j'y réfléchis mais j'ai clairement besoin d'aide)
+
+8.5 <-- Nicolas (j'y réfléchis mais j'ai clairement besoin d'aide)
+
+8.6
+8.7
+
 8.2.3 : Partie "Création", vérifier quoi ????
+
 8.2.3 : Partie "Production", scalable ici = ? évolutif, adaptable, évolutif ??? Terme à préciser
 Annexes et Templates
 
