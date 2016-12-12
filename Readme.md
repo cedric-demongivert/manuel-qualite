@@ -1,32 +1,26 @@
 # Manuel qualité
 
+# Arrêtez avec vos fautes ... orthographe, syntaxe, conjugaison, sens, ... 
+
+
 ## Sommaire
-
-ECRIRE :
-6.1 <-- Cédric
-
-REFLECHIR :
-6.2 <--
-6.3 <--
-
-10 <-- Sophie
 
 OK :
 1.
 2.
 4.
 5.
-6.1
-6.3
+6
 7.
-8.
+8.3 normalement ok
 9.
 
 Pas OK :
 3. Définition de termes POA/Templates/Central d'appels/Ticket
-6.2 -> Changer le terme "commité" ...
 8. <-- Nicolas (j'y réfléchis)
-Annexes.
+8.2.3 : Partie "Création", vérifier quoi ????
+8.2.3 : Partie "Production", scalable ici = ? évolutif, adaptable, évolutif ??? Terme à préciser
+Annexes et Templates
 
 ## Pourquoi pas de manuel qualité en informatique ?
 
