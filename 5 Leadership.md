@@ -9,15 +9,10 @@ Le leadership de tous les échelons de l'entreprise joue un rôle actif dans la 
 Pour démontrer son investissement, l'entreprise s’engage à :
 
 * Communiquer l'importance de répondre aux exigences de ses clients, des lois et des règlements
-
 * Établir des objectifs de qualité
-
 * Établir une politique de qualité
-
 * Effectuer des examens trimestriels de la direction
-
 * Assurer la disponibilité des ressources
-
 * Promouvoir l'amélioration de l'efficacité du manuel qualité
 
 
