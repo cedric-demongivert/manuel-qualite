@@ -13,25 +13,14 @@ OK :
 6
 7.
 
-8.1 un peu bullshitée mais je vois pas mieux
-
-8.3 normalement ok
-
-8.4 c'est fait, j'ai juste viré la partie 8.4.2 puisque ça parle des services des prestataires
-
+8. presque achevée
 9.
 
 Pas OK :
 3. Définition de termes POA/Templates/Central d'appels/Ticket
 
-8.5 <-- Nicolas (j'y réfléchis mais j'ai clairement besoin d'aide)
 
-8.6
-8.7
-
-8.2.3 : Partie "Création", vérifier quoi ????
-
-8.2.3 : Partie "Production", scalable ici = ? évolutif, adaptable, évolutif ??? Terme à préciser
+8.2.3 : Partie "Production", scalable ici = ? évolutif, adaptable ??? Terme à préciser
 Annexes et Templates
 
 ## Correspondance ISO 9001:2015 avec version 2008
