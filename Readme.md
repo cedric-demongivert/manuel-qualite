@@ -34,6 +34,11 @@ Pas OK :
 8.2.3 : Partie "Production", scalable ici = ? évolutif, adaptable, évolutif ??? Terme à préciser
 Annexes et Templates
 
+## Correspondance ISO 9001:2015 avec version 2008
+http://www.pqb.fr/page-nouveautes-sur-la-norme-iso-9001-version-2015-systeme-de-management-de-la-qualite.php
+
+On peut se servir du document ASP_qm.pdf que le prof a mis sur son site pour exemple du coup.
+
 ## Pourquoi pas de manuel qualité en informatique ?
 
 Des 12 principes généraux agiles :
