@@ -1,27 +1,7 @@
 # Manuel qualité
 
-# Arrêtez avec vos fautes ... orthographe, syntaxe, conjugaison, sens, ... 
-
-
-## Sommaire
-
-OK :
-1.
-2.
-4.
-5.
-6
-7.
-
-8. presque achevée
-9.
-
-Pas OK :
+###Pas OK :
 3. Définition de termes POA/Templates/Central d'appels/Ticket
-
-
-8.2.3 : Partie "Production", scalable ici = ? évolutif, adaptable ??? Terme à préciser
-Annexes et Templates
 
 ## Correspondance ISO 9001:2015 avec version 2008
 http://www.pqb.fr/page-nouveautes-sur-la-norme-iso-9001-version-2015-systeme-de-management-de-la-qualite.php
